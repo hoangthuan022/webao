@@ -1,36 +1,24 @@
 body{
+    color: blue;
     font: Times New Roman;
-    font-size: 24px;
-}
-#main{
-    width: 1000px;
-    padding: auto;
-    margin-left:0;
-    margin-right:0;
+    font-size: 14px;
+    text-align: justify;
 
+    font-size: normal;
+    width: 600px;
+    line-height: 1.5;
 }
-#head  li {
-    color: #f1f1f1;
+#container{
+    color :red;
+    font-size: 20;
     float: left;
-    width: 290px;
-    height: 40px;
-    line-height: 40px;
-  }
-#head ul{
-    background: red;
-    width: 100%;
-    height: 100%;
-    list-style-type: none;
-    overflow: hidden;
-
+    width: 650px;
+    border-bottom: 1px solid blue;
 }
-#left{
-    width: auto;
-    margin-left:0px;
-}
-#right{
-    width: auto;
-    margin-right: 0xp;
-    margin-left: 550px;
-    margin-top:0px;
+#thuan{
+    width :200px;
+    color: green;
+    float: left;
+    border: 1px solid red;
+    margin:20px;
 }

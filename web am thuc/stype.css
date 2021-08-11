@@ -1,0 +1,36 @@
+body{
+    font: Times New Roman;
+    font-size: 24px;
+}
+#main{
+    width: 1000px;
+    padding: auto;
+    margin-left:0;
+    margin-right:0;
+
+}
+#head  li {
+    color: #f1f1f1;
+    float: left;
+    width: 290px;
+    height: 40px;
+    line-height: 40px;
+  }
+#head ul{
+    background: red;
+    width: 100%;
+    height: 100%;
+    list-style-type: none;
+    overflow: hidden;
+
+}
+#left{
+    width: auto;
+    margin-left:0px;
+}
+#right{
+    width: auto;
+    margin-right: 0xp;
+    margin-left: 550px;
+    margin-top:0px;
+}
